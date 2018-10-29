@@ -1,0 +1,2 @@
+[webserver]
+52.200.45.249 ansible_port=22 ansible_user='ec2-user'
