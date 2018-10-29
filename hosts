@@ -1,2 +1,2 @@
 [webserver]
-52.200.45.249 ansible_port=22 ansible_user='ec2-user'
+35.171.183.78 ansible_port=22 ansible_user='ec2-user'
